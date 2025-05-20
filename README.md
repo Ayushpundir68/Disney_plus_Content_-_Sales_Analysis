@@ -1,6 +1,6 @@
 📺 Disney+_Content_Analysis Dashboard:
 
-This project explores the content distribution and trends of the Disney+ streaming platform using data visualization and analysis techniques.
+This Project analyzes Disney+ sales trends, revenue, content variety and customer behavior of the Disney+ streaming platform using data visualization and analysis techniques. It provides insights into subscriber growth, regional performance, and plan preferences, helping understand key business metrics and trends in the streaming industry.
 
 🔍 Project Overview:
 
